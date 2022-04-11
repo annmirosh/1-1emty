@@ -1,0 +1,2 @@
+/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
+[{"id":"766e1619-5580-f064-3f98-804124e9be6b","parentId":"","request":{"text":"version"},"response":"[{\"text\":\"v2e\",\"rLoc\":{\"file\":\"version_tests\",\"line\":3},\"reqId\":\"1649665347617/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"version_tests\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
