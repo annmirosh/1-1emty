@@ -1,4 +1,4 @@
-const recommendedProductName = 'test'
+const recommendedProductName = 'tes7777t'
 
 intent('hi1',(p)=>{                
     const popupTemplate = p.createPopup({
